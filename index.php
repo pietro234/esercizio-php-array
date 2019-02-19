@@ -14,6 +14,15 @@
     <h1>Hello, world!</h1>
     <p>ecco un paragrafo</p>
 
+
+    <?php
+
+      $arr =["mela","kiwi","pera"];
+
+      print $arr[1]; 
+
+    ?>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.3.1.min.js"></script>
